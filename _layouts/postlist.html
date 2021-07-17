@@ -1,38 +1,43 @@
 ---
 layout: primary
 ---
-<div id="blogpage">
-  <div class="mb-4" id="blogpost">
+<div id="blogpage clear-both">
+  <div class="w-full md:w-1/6 mb-4 md:mb-0 float-left" id="blogpost">
     <h2>Tags</h2>
-    <span>All tags: 
+    <span>All tags:
       {% for tag in site.tags %}
-      {% if tag[0] == page.tag %}<b>{% endif %}<a href="/tags/{{tag[0]}}">{{tag[0]}}</a>{% if tag[0] == page.tag %}</b>{% endif %}{% if forloop.last %}{%else%},{%endif%} 
+      {% if tag[0] == page.tag %}<b>{% endif %}<a
+          href="/tags/{{tag[0]}}">{{tag[0]}}</a>{% if tag[0] == page.tag %}</b>{% endif %}{% if forloop.last %}{%else%},{%endif%}
       {% endfor %}
     </span>
   </div>
-  {% if page.tag %}
-    <h2>Posts tagged "{{page.tag}}":</h2>
-    {% else %}
-    <h2>All Posts</h2>
-    {% endif %}
-  <hr>
-  <div class="ml-4 mt-4">
-    <ul>
+  <div class="w-full md:w-5/6 float-right">
+    <h2>
+      {% if page.tag %}
+      Posts tagged "{{page.tag}}":
+      {% else %}
+      All Posts
+      {% endif %}
+    </h2>
+    <hr>
+    <div class="ml-4 mt-4">
+      <ul>
         {% if page.tag %}
-        {% for tag in site.tags %}
-        {% if page.tag and tag[0] == page.tag %}
-            {% for post in tag[1] %}
+          {% for tag in site.tags %}
+            {% if page.tag and tag[0] == page.tag %}
+              {% for post in tag[1] %}
                 {% include blogexcerpt.html post=post %}
                 <hr>
-            {% endfor %}
-        {% endif %}
-        {% endfor %}
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
         {% else %}
-        {% for post in site.posts %}
+          {% for post in site.posts %}
             {% include blogexcerpt.html post=post %}
             <hr>
-        {% endfor %}
+          {% endfor %}
         {% endif %}
-    </ul>
+      </ul>
+    </div>
   </div>
 </div>
