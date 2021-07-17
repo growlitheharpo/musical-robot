@@ -4,10 +4,10 @@ body, p, li {
     @apply font-body text-base text-gray-700
 }
 h1 {
-    @apply font-head text-3xl text-gray-700
+    @apply font-head text-3xl text-orange-600
 }
 h2 {
-    @apply font-head text-2xl text-orange-600
+    @apply font-head text-2xl text-gray-700
 }
 h3 {
     @apply font-head text-xl text-orange-600
