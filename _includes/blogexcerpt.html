@@ -5,7 +5,11 @@
             {% if tag == page.tag %}<b>{% endif %}<a href="/tags/{{tag}}">{{tag}}</a>{% if tag == page.tag %}</b>{% endif %}{% if forloop.last %}{%else%},{%endif%} {% endfor %}</span>
         <div class="ml-6">
             <div class="blog-excerpt">
+                {% if include.post.description %}
+                <p>{{ include.post.description }}</p>
+                {% else %}
                 <p>{{ include.post.excerpt }}</p>
+                {% endif %}
             </div>
             <a href="{{ include.post.url }}">Read more...</a>
         </div>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="115">
+    <defs>
+        <path d="M0 57L646.6 57C638.42 48.59 633.31 43.33 631.27 41.22C614.59 24.05 591.98 13.89 568.07 12.8C563.77 12.61 575.51 13.14 568.07 12.8C554.17 12.18 540.48 16.32 529.27 24.54C524.3 28.18 532.73 22 529.27 24.54C512.99 36.47 493.87 43.95 473.81 46.22C454.78 48.37 448.12 49.13 434.04 50.72C397.57 54.85 360.64 50.66 326.03 38.46C319.02 35.99 331.56 40.41 319.79 36.26C319.79 36.26 261.3 18.9 261.3 18.9C245.73 15.12 263.4 19.41 256.51 17.73C208.25 6.03 158.17 3.92 109.1 11.55C94.56 13.81 58.19 19.46 0 28.5L0 57Z" id="c5wQF8FJ"></path>
+        <linearGradient id="gradient1" gradientUnits="userSpaceOnUse">
+            <stop style="stop-color: #ff75c5;stop-opacity: 1" offset="0%"></stop>
+            <stop style="stop-color: #4CC9EE;stop-opacity: 1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="100%" height="50%" fill="url(#gradient1)"/>
+    <line stroke-width="2" x1="1" y1="25%" x2="1" y2="65%" stroke="#636363" />
+    <line stroke-width="2" x1="50%" y1="25%" x2="50%" y2="65%" stroke="#636363" />
+    <line stroke-width="2" x1="799" y1="25%" x2="799" y2="65%" stroke="#636363" />
+    <line stroke-width="2" x1="0" y1="50%" x2="100%" y2="50%" stroke="#636363" />
+    <text x="0%" y="70%"    style="font-size: 1.45rem;" fill="#636363" dominant-baseline="hanging" text-anchor="left">femininity</text>
+    <text x="50%" y="70%"   style="font-size: 1.45rem;" fill="#636363" dominant-baseline="hanging" text-anchor="middle">androgyny</text>
+    <text x="100%" y="70%"  style="font-size: 1.45rem;" fill="#636363" dominant-baseline="hanging" text-anchor="end">masculinity</text>
+    <g>
+        <use xlink:href="#c5wQF8FJ" opacity="1" fill="#4e4e4e" fill-opacity="0.5"></use>
+        <g>
+            <use xlink:href="#c5wQF8FJ" opacity="1" fill-opacity="0" stroke="#636363" stroke-width="2" stroke-opacity="1"></use>
+        </g>
+    </g>
+</svg>
