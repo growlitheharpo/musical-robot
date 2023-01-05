@@ -10,7 +10,7 @@ Set Her Free - James Keats
 
 Audio: [https://youtu.be/YN01vmwukZE](https://youtu.be/YN01vmwukZE)
 
-Hot blood fills his lungs as the last song is sung. The singer's on stage with a cord round his neck and the final curtain has come. The audience is wowed. There's no denying this is one jazzed up crowd. They leap to their feet; he continues to bleed; their applause drowns out all of his sound. I don't know who you are, though we've all come so far. I'm not sure who I am. But I know who I've been.
+Hot blood fills his lungs as the last song is sung. The singer's on stage with a cord round his neck and the final curtain has come. The audience is wowed. There's no denying this is one jazzed up crowd. They leap to their feet as he continues to bleed. Their applause drowns out all of his sound. I don't know who you are, though we've all come so far. I'm not sure who I am. But I know who I've been.
 
 The cold mirror hangs. Her knuckles in pain. She's desperate to see what her soul wants to be but the reflection refuses to change. The flecked glass is hard: cracks, refractions and shards. She tight-grits her teeth and remembers to breathe and steps back out into the bar. I don't know who you are, though we've all come so far. I'm not sure who I am. But I know who I've been.
 
