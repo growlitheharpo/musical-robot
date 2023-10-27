@@ -1,7 +1,7 @@
 ---
 title: Spring Rants
 layout: blogpost
-author: James Keats
+author: Allie Keats
 selectedurl: Blog
 tags: life
 description: There are so many snippets of thoughts that I don't have the discipline or creativity to mold or sculpt into a coherent whole.

@@ -1,7 +1,7 @@
 ---
 title: Musica - Western Teleport (2011) | Emperor X
 layout: blogpost
-author: James Keats
+author: Allie Keats
 selectedurl: Blog
 tags: music emperor-x western-teleport
 description: When it comes to artists I love that nobody has ever heard of, Emperor X may win the "Most Obscure" award. 

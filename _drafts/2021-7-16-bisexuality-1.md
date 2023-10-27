@@ -1,7 +1,7 @@
 ---
 title: Thoughts on Bisexuality
 layout: blogpost
-author: James Keats
+author: Allie Keats
 tags: personal sexuality gender
 ---
 

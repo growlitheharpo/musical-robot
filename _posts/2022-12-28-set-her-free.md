@@ -1,12 +1,12 @@
 ---
 title: Set Her Free (lyrics)
 layout: blogpost
-author: James Keats
+author: Allie Keats
 tags: lyrics set-her-free music
 description: Hot blood fills his lungs as the last song is sung. The singer's on stage with a cord round his neck [...]
 ---
 
-Set Her Free - James Keats
+Set Her Free - Allie Keats
 
 Audio: [https://youtu.be/YN01vmwukZE](https://youtu.be/YN01vmwukZE)
 
@@ -16,4 +16,4 @@ The cold mirror hangs. Her knuckles in pain. She's desperate to see what her sou
 
 Are you real, dear? Oh Allie, come here. She's nothing but air and some dreams of long hair. She's hardly more than ideas. I see her asleep. She visits me night after night in my dreams, eyes just like mine, searching me for some sign of the day that I might set her free. I'm not sure who you are, but we've made it this far. I'm not sure who I am. But I know who I've been.
 
-*Copyright (C) 2022 James Keats*
+*Copyright (C) 2022 Allie Keats*
